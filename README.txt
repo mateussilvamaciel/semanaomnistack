@@ -1,1 +1,2 @@
 SemanaOmnistack11 desenvolvendo aplicação BIGHERO.
+Alterações
