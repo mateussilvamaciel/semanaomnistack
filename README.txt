@@ -1,2 +1,2 @@
 SemanaOmnistack11 desenvolvendo aplicação BIGHERO.
-Alterações
+Evento online produzido pela RocketSeat
